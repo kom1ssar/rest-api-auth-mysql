@@ -5,7 +5,7 @@ Express, MySQL, Jwt, Bcryptjs
 __.env Config__
    ```dotenv
     SALT='6' //соль для хеширования праоля
-    SECRET_JWT='QQWEQASDvD' //сикретный jwt токен
+    SECRET_JWT='QQWEQASDvD' //секретный jwt токен
     DATABASE_MYSQL='mysql://admin:5Gq5BDuYspP@localhost:3306/rest-api-users' // ''mysql://<login>:<password>@<localhost>:<port>/<name>''
 ```
 
