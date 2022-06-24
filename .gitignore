@@ -1,0 +1,11 @@
+node_modules
+dist
+.clinic
+.env
+.idea
+.eslintrc
+.gitattributes
+.prettierrc
+jest.config.ts
+nodemon.json
+tsconfig.json
