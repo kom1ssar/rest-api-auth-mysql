@@ -91,7 +91,7 @@ __USER_SCHEMA__
                 "password": "HashPassword",
                 "gender": "NaN",
                 "createdOn": "Register DateTime"
-            }, //...
+            },...
     ```
     *Также данный роут принимает необязательное поле* **userId**
 
