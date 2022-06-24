@@ -122,7 +122,7 @@ __USER_SCHEMA__
     {
       "firstName":"Name",
       "lastName":"lastName",
-      "gender": "FEMALE" | "MALE",
+      "gender": "GENDER"  // 'femali' или 'male'
       "email":"email"
     }
    ```
